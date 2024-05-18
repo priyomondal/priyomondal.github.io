@@ -12,9 +12,9 @@ title                    : "Homepage" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://ziaf.github.io/home/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ziaf.github.io/home # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/Ziaf"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,7 @@ author:
   name             : "Faizanuddin Ansari"
   pronouns         : # example: "she/her"  
   bio              : "Senior Research Fellow"
-  location         : "Earth"
+  location         : "Kolkata"
   employer         : "Indian Statistical Institute, Kolkata"
   uri              : # URL
   email            : "faizanansari541@gmail.com" 
