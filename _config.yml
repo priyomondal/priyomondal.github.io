@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Faizanuddin Ansari"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Senior Research Fellow"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Indian Statistical Institute, Kolkata"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "faizanansari541@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
