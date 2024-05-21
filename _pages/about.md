@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+<p style="text-align: center;">"So, surely with hardship comes ease"</p>
 
 
 About
