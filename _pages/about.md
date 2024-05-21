@@ -13,13 +13,15 @@ About
 ======
 Welcome to my website. 😀
 
-I am a PhD student at the Indian Statistical Institute, Kolkata. I am working under the supervision of Professor Swagatam Das at the Electronics and Communication Sciences Unit, Kolkata.
+I am a PhD student at the Indian Statistical Institute, Kolkata. I am working under the supervision of [Professor Swagatam Das](https://www.isical.ac.in/~swagatam.das/) at the Electronics and Communication Sciences Unit, Kolkata.
 
 I completed my B.Tech in Computer Engineering from Zakir Husain College of Engineering and Technology, AMU, in 2017, and my M.Tech in Computer Science and Engineering (Specialization in Software Engineering) from the same institution in 2019. My current research focuses on class imbalance learning, long-tailed distribution, explainable AI, and bias mitigation in datasets.
 
-If you have any questions or comments, please feel free to contact me at faizanansari541@gmail.com.
 
 <!---
+If you have any questions or comments, please feel free to contact me at faizanansari541@gmail.com.
+
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
