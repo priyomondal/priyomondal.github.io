@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-</p>فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا ٥<p style="text-align: center;">
+<p style="text-align: center;">فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا ٥<\p>
 <p style="text-align: center;">"So, surely with hardship comes ease"</p>
 
 
