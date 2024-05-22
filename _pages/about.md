@@ -10,7 +10,7 @@ redirect_from:
 <!--- <p style="text-align: center;">فَإِنَّ مَعَ العُسرِ يُسرًا</p> -->
 <p style="text-align: center;">"fa-ʾinna maʿa l-ʿusri yusra"</p>
 
-<p style="text-align: center;">"So, surely with hardship comes ease"[94:5]</p>
+<p style="text-align: center;">"So, surely with hardship comes ease"</p>
 
 
 About
