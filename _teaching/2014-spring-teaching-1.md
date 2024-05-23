@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "PGDBA(Post Graduate Diploma in Business Administration) "
+type: "Data Science course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "PGDBA"
 date: 2021-01-01
