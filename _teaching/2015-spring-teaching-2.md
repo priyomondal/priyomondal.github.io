@@ -1,14 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant"
 collection: teaching
-type: "Workshop"
+type: "Machine Learning-II course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "M.Tech. Computer Science"
+date: 2023-07-01
+location: "Indian Statistical Institute, Kolkata, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I served as a Teaching Assistant for the Machine Learning-II course, which was tailored specifically for M.Tech. Computer Science students and was instructed by the Professor Swagatam Das.
+
+<!---
 
 Heading 1
 ======
@@ -18,3 +20,4 @@ Heading 2
 
 Heading 3
 ======
+--->
