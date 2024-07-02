@@ -1,14 +1,14 @@
 ---
-title: "Workshop"
+title: "Lecture"
 collection: teaching
-type: "Workshop on Machine Learning & Deep Learning"
-permalink: /teaching/2023-spring-teaching-3
-venue: "AIVOT"
-date: 2023-08-08
-location: "Kolkata"
+type: "2nd Winter School on Deep Learning 2024"
+permalink: /teaching/2014-spring-teaching-1
+venue: "ECSU"
+date: 2023-01-01
+location: "Indian Statistical Institute, Kolkata"
 ---
 
-Conducted a workshop as the instructor for AIVOT’s startup new developers and programmers, covering topics from the basics of machine learning to advanced deep learning over a two-week period in August 2023.
+I served as a Teaching Assistant for the Data Science course, which was tailored specifically for Research Scholars and Industry Professional and Graduate students and was organized at the Electronics Communication Sciences Unit, ISI Kolkata.
 
 
 <!---
