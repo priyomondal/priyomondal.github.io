@@ -1,5 +1,5 @@
 ---
-title: "Lecturer"
+title: "Lecture"
 collection: teaching
 type: "3rd Winter School on Deep Learning 2024"
 permalink: /teaching/2014-spring-teaching-1
