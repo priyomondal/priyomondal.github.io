@@ -21,14 +21,14 @@ repository               : "https://github.com/Ziaf"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cropped_image.png"
-  name             : "Faizanuddin Ansari"
+  avatar           : "profile.jpeg"
+  name             : "Priyobrata Mondal"
   pronouns         : # example: "she/her"  
   bio              : "Senior Research Fellow"
   location         : "Kolkata"
   employer         : "Indian Statistical Institute, Kolkata"
   uri              : # URL
-  email            : "faizanansari541@gmail.com" 
+  email            : "priyobrata.mondal10@gmail.com" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
@@ -57,9 +57,9 @@ author:
   # keybase          : # Username
   # instagram        : # Username
   # lastfm           : # Username
-  linkedin         : "faizanuddinansari"
+  linkedin         : "priyobrata-mondal"
   # mastodon         : # URL
-  medium           : "https://medium.com/@faizanansari541"
+  # medium           : "https://medium.com/@faizanansari541"
   # pinterest        : # Username
   # soundcloud       : # Username
   # steam            : # Username
