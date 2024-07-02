@@ -1,14 +1,14 @@
 ---
-title: "Teaching Assistant"
+title: "Lecturer"
 collection: teaching
-type: "Data Science course"
+type: "3rd Winter School on Deep Learning 2024"
 permalink: /teaching/2014-spring-teaching-1
-venue: "PGDBA"
-date: 2021-01-01
+venue: "ECSU"
+date: 2024-01-01
 location: "Indian Statistical Institute, Kolkata"
 ---
 
-I served as a Teaching Assistant for the Data Science course, which was tailored specifically for PGDBA (Post Graduate Diploma in Business Administration) students and was instructed by the Professor Dipti Prasad Mukherjee.
+I served as a Teaching Assistant for the Data Science course, which was tailored specifically for Research Scholars and Industry Professional and Graduate students and was organized at the Electronics Communication Sciences Unit, ISI Kolkata.
 
 
 <!---
