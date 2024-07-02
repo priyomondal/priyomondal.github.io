@@ -57,4 +57,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-Please contact: [faizanansari541@gmail.com](faizanansari541@gmail.com) or [faizanuddin_r@isical.ac.in](faizanuddin_r@isical.ac.in)
+Please contact: [priyobrata.mondal10@gmail.com](priyobrata.mondal10@gmail.com) or [priyobrata1996_r@isical.ac.in](priyobrata1996_r@isical.ac.in)
