@@ -21,7 +21,7 @@ repository               : "https://github.com/priyomondal"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cropped_image.png"
+  avatar           : "profile.jpeg"
   name             : "Priyobrata Mondal"
   pronouns         : # example: "she/her"  
   bio              : "Senior Research Fellow"
