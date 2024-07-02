@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align: center;">فَإِنَّ مَعَ العُسرِ يُسرًا</p> 
+<!---  <p style="text-align: center;">فَإِنَّ مَعَ العُسرِ يُسرًا</p> 
 <p style="text-align: center;">"So, surely with hardship comes ease"</p>
-<!--- <p style="text-align: center;">fa-ʾinna maʿa l-ʿusri yusra</p>-->
+<p style="text-align: center;">fa-ʾinna maʿa l-ʿusri yusra</p>-->
 
 About
 ======
@@ -17,11 +17,11 @@ Welcome to my website. 😀
 
 I am a PhD student at the Indian Statistical Institute, Kolkata. I am working under the supervision of [Professor Swagatam Das](https://www.isical.ac.in/~swagatam.das/) at the Electronics and Communication Sciences Unit, Kolkata.
 
-I completed my B.Tech in Computer Engineering from Zakir Husain College of Engineering and Technology, AMU, in 2017, and my M.Tech in Computer Science and Engineering (Specialization in Software Engineering) from the same institution in 2019. My current research focuses on class imbalance learning, long-tailed distribution, explainable AI, and bias mitigation in datasets.
+I completed my BS and MS in Mathematics from Ramakrishna Mission Vidyamandira, Calcutta University, in 2016 and 2018 respectively, and my M.Tech in Cryptology and Security (Specialization in Machine Learning) from Indian Statistical Institute, Kolkata in 2020. My current research focuses on class imbalance learning, computer vision, and reinforcement learning.
 
 
 <!---
-If you have any questions or comments, please feel free to contact me at faizanansari541@gmail.com.
+If you have any questions or comments, please feel free to contact me at priyobrata.mondal10@gmail.com.
 
 
 Getting started
