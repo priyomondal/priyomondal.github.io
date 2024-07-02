@@ -12,9 +12,9 @@ title                    : "Homepage" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://priyomondal.github.io/home # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ziaf.github.io/home # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/priyomondal"
+repository               : "https://github.com/Ziaf"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,7 +22,7 @@ repository               : "https://github.com/priyomondal"
 author:
   # Biographic information
   avatar           : "profile2.jpeg"
-  name             : "Priyobrata Mondal"
+  name             : "Faizanuddin Ansari"
   pronouns         : # example: "she/her"  
   bio              : "Senior Research Fellow"
   location         : "Kolkata"
@@ -43,7 +43,7 @@ author:
   # bitbucket        : # Username - Update with your username on the site
   # codepen          : # Username
   # dribbble         : # Username
- # github           : "priyomondal"
+  github           : "Ziaf"
   # kaggle           : # Username  
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
