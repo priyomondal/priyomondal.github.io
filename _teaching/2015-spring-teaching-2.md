@@ -3,7 +3,7 @@ title: "Teaching Assistant"
 collection: teaching
 type: "Summer School on Machine Learning"
 permalink: /teaching/2015-spring-teaching-1
-venue: "M.Tech. Computer Science"
+venue: "ECSU, ISI Kolkata"
 date: 2024-06-01
 location: "Indian Statistical Institute, Kolkata, India"
 ---
