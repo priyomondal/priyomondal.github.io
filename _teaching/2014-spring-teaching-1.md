@@ -8,7 +8,7 @@ date: 2024-01-01
 location: "Indian Statistical Institute, Kolkata"
 ---
 
-I served as a Teaching Assistant for the Data Science course, which was tailored specifically for Research Scholars and Industry Professional and Graduate students and was organized at the Electronics Communication Sciences Unit, ISI Kolkata.
+I served as a Teaching Assistant for the Data Science course, which was tailored specifically for Research Scholars, Industry professionals, and Graduate students and was organized by Prof. Swagatam Das and Dr. Partha Pratim Mohanta, at the Electronics Communication Sciences Unit, ISI Kolkata.
 
 
 <!---
